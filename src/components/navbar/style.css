@@ -1,0 +1,27 @@
+.navContainer ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navContainer{
+    background-color: #32cd327a;
+    padding: 0.2rem;
+    border-radius: 5rem;
+}
+
+.navContainer ul a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 1.2rem;  
+}
+
+img{
+    width:85%
+}
+.nav-logo{
+
+    width:3%
+}
